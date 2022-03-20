@@ -45,9 +45,9 @@
 
 ## About The Project
 
-<a align="center" href="https://space-case-dev.vercel.app/">
+<!-- <a align="center" href="https://space-case-dev.vercel.app/">
   <img src="https://res.cloudinary.com/spacecaser/image/upload/v1645582720/FireShot_Capture_009_-_Chris_Menkhus_Developer_Front_End_Full_Stack_About_Contact_Page_-_localhost_d6bei9.png" alt="screenshot" width="340" height="250">
-</a>
+</a> -->
 <br/>
 
 NextJs Template built so I can easily start up new projects.
